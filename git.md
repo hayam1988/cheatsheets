@@ -17,7 +17,7 @@ Make a new repo on github.com so you can copy the URL:
 
 ### pulling from git 
 
-`git clone ...`: clone a repo 
+`git clone ...`: clone a repo could be another persons repo 
 
 `git pull origin master`: pulling new changes 
 
