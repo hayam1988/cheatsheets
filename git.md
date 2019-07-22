@@ -1,4 +1,4 @@
-#git reference 
+###git reference 
 `Step One`
 `git init`: starts a new git repo on your local machine. (if you use create-react-app, you dont need this) 
 
@@ -24,5 +24,7 @@ Make a new repo on github.com so you can copy the URL:
 ### Notes 
 
 `gitigonore`: this file lets you set which files and folders to ignore by git ( create- react app)
+
+`git status`: can be run to check status of the commit
 
 
