@@ -20,7 +20,11 @@ Make a new repo on github.com so you can copy the URL:
 
 `git clone ...`: clone a repo could be another persons repo 
 
+ `git clone https://github.com/hayam1988/memer.git NEW FOLDER NAME ` 
+
 `git pull origin master`: pulling new changes 
+
+`git remote set-url origin https://github.com/hayam1988/weatherer.git `: take the url from the newly created github repo and set the cloned repo url to the new repo url
 
 ### Notes 
 
