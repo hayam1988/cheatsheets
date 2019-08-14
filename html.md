@@ -49,7 +49,7 @@ All forms inputs have "value" and "onChange" props
 - onHover
 
 
-### React notes 
+### React vs. HTML notes 
 - all props are camelCase! like className, onClick, onChange... in original HTML they are all lowercase 
 
 - in original HTML, props MUST be strings 
